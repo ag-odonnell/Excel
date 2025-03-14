@@ -7,4 +7,3 @@
 * flag_new_derive
   * =IF(D1=1,IF(D2=1,1,0),0)
 * flag_new_static
-
